@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "github.token",
+    "type": "java.lang.String",
+    "description": "A description for 'github.token'"
+  },
+  {
+    "name": "github.org",
+    "type": "java.lang.String",
+    "description": "A description for 'github.org'"
+  }
+]}
